@@ -1,0 +1,5 @@
+{
+  "name": "Cloud Alerting Notification Channels",
+  "description": "A web application to manage and monitor notification channels for alerting systems, inspired by the Google Cloud Monitoring UI.",
+  "requestFramePermissions": []
+}
